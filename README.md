@@ -1,6 +1,6 @@
 # Workshop-7
 
-This is my first larger website, built with HTML and CSS using small icons, background images and other visual elements. :contentReference[oaicite:0]{index=0}  
+This is my first larger website, built with HTML and CSS using small icons, background images and other visual elements. 
 
 > Repository: https://github.com/Burdulaa/Workshop-7
 
