@@ -1,36 +1,30 @@
 # Workshop-7
 
-This is my first larger website, built with HTML and CSS using small icons, background images and other visual elements. 
+This is my first larger website project, where I experiment with a full-page layout using small icons, background images and more detailed styling with HTML and CSS.
 
 > Repository: https://github.com/Burdulaa/Workshop-7
 
 ## Overview
 
-The project is a single-page multi-section layout that focuses on:
+The goal of this workshop is to move from small single components to a complete multi-section page, focusing on:
 
-- Using icons and background images for visual structure 
-- Organising styles with a dedicated reset file and main stylesheet  
-- Practising a bigger page structure compared to previous workshops
-
-The site is fully static and runs entirely in the browser.
+- Structuring a larger layout (header, content blocks, footer, etc.)
+- Using background images and icons for visual style
+- Organizing styles across multiple CSS files (`reset.css` and `style.css`)
+- Keeping the site fully static and running only in the browser
 
 ## Features
 
-- Single-page website (`index.html`) with multiple content sections 
-- Custom design built with:
-  - Small icon images
-  - Background images for sections or the page
-- Separated styles:
-  - `reset.css` for resetting default browser styles
-  - `style.css` for main layout and design   
-- Image assets stored under `Images/` (icons, backgrounds, etc.)  
-- Pure front-end: HTML + CSS only (no JavaScript, no backend)  
-- Codebase is mostly CSS, with HTML markup for structure 
+- Single main page: `index.html`
+- Global CSS reset via `reset.css` to normalise browser defaults
+- Custom styling in `style.css` (layout, colors, typography, backgrounds)
+- Local image assets inside `Images/` (icons, background images, decorative graphics)
+- Pure front-end: HTML + CSS only (no JavaScript, no backend)
 
 ## Tech Stack
 
-- HTML5  
-- CSS3  
+- HTML5
+- CSS3 (with a reset stylesheet)
 
 ## Getting Started
 
