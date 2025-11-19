@@ -8,7 +8,7 @@ This is my first larger website, built with HTML and CSS using small icons, back
 
 The project is a single-page multi-section layout that focuses on:
 
-- Using icons and background images for visual structure :contentReference[oaicite:1]{index=1}  
+- Using icons and background images for visual structure 
 - Organising styles with a dedicated reset file and main stylesheet  
 - Practising a bigger page structure compared to previous workshops
 
@@ -16,16 +16,16 @@ The site is fully static and runs entirely in the browser.
 
 ## Features
 
-- Single-page website (`index.html`) with multiple content sections :contentReference[oaicite:2]{index=2}  
+- Single-page website (`index.html`) with multiple content sections 
 - Custom design built with:
   - Small icon images
   - Background images for sections or the page
 - Separated styles:
   - `reset.css` for resetting default browser styles
-  - `style.css` for main layout and design :contentReference[oaicite:3]{index=3}  
-- Image assets stored under `Images/` (icons, backgrounds, etc.) :contentReference[oaicite:4]{index=4}  
+  - `style.css` for main layout and design   
+- Image assets stored under `Images/` (icons, backgrounds, etc.)  
 - Pure front-end: HTML + CSS only (no JavaScript, no backend)  
-- Codebase is mostly CSS, with HTML markup for structure :contentReference[oaicite:5]{index=5}  
+- Codebase is mostly CSS, with HTML markup for structure 
 
 ## Tech Stack
 
